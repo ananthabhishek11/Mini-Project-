@@ -6,4 +6,4 @@ This helps to reduce the response time of emergency vehicles, without much affec
 
 Tools Used - ARDUINO, TKINTER, PYTHON
 
-![Block Diagram](https://github.com/ananthabhishek11/Mini-Project-/Block Diagram.jpg?raw=true)
+![Block Diagram](https://github.com/ananthabhishek11/Mini-Project-/blob/main/Block%20Diagram.JPG?raw=true)
